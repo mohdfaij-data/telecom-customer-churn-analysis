@@ -137,6 +137,5 @@ This analytics solution helps telecom companies:
 # 👨‍💻 Author
 
 **Mohd Faiz**  
-
 LinkedIn: [Mohd Faiz](https://www.linkedin.com/in/mohdfaij-data)
 
